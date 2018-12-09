@@ -1,0 +1,14 @@
+{
+  "name": "trails",
+  "version": "1.0.0",
+  "description": "This is the new installlation for the trails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rksy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
